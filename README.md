@@ -15,6 +15,8 @@ UNIBIT PROBLEM:
     IN Output :- [-6,2] is not equal to 4. and also below line is wrong.
 
 
+    *** Size of array should be given before array and input taken from terminal(IMPORTANT)
+
     RESULT:-
 
         INPUT:    8  (Size of array)
@@ -71,4 +73,3 @@ UNIBIT PROBLEM:
 
       Overall  O(N+M)
 
-      
